@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Brayan <span style="color:#5865F2;">(bry)</span></h1>
+<h1 align="center">👨‍💻 Brayan <span style="color:#5865F2;">(Slowy)</span></h1>
 
 <p align="center">
   <b>Software Developer · Estudiante de Programación · Founder @ Apex Studios</b><br>
@@ -9,14 +9,14 @@
   <img src="https://img.shields.io/badge/Status-Independent%20Developer-0A66C2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Age-19-1abc9c?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Company-Apex%20Studios-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Discord-bry-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-slowy-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
 ---
 
 ## 🚀 Perfil Profesional
 
-Soy **Brayan**, conocido como **bry**.  
+Soy **Brayan**, conocido como **slowy**.  
 Tengo **19 años** y soy **estudiante de programación**, trabajando actualmente de forma **independiente**, desarrollando soluciones digitales reales para proyectos propios y empresas.
 
 Me formo constantemente a través de **cursos especializados**, con un enfoque claro en **calidad**, **rendimiento** y **escalabilidad**.
